@@ -1,6 +1,6 @@
-# CrossFit-Kaizoku / In Progress
+# CrossFit-Kaizoku
 
-Actually developping an App for a Gym.
+Booking app for a Gym (in progress).
 
 ## Technologies used:
 
@@ -21,7 +21,7 @@ Actually developping an App for a Gym.
 
 ## Screenshots:
 
-<div style="display : inline-block">
+<div style="display : inline-block ; text-align:center">
 <img src="https://user-images.githubusercontent.com/26858750/99322877-35905900-2871-11eb-855c-fd44546c561e.jpg" alt="drawing" width="160"/>
 
 <img src="https://user-images.githubusercontent.com/26858750/99322886-3b863a00-2871-11eb-9594-138efbd4547a.jpg" alt="drawing" width="160"/>
