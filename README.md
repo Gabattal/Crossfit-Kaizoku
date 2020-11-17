@@ -2,7 +2,7 @@
 
 Actually developping an App for a Gym.
 
-## Technologies used
+## Technologies used:
 
 * Vue.js
 * Vuetify
@@ -10,7 +10,7 @@ Actually developping an App for a Gym.
 * Cordova
 * Android Studio
 
-## Features
+## Features:
 
 * Inscription / Connexion
 * Book courses with a waiting list system
@@ -19,7 +19,7 @@ Actually developping an App for a Gym.
 * Send a message to all members (admin)
 * See who cancel his courses and when (admin)
 
-## Screenshots :
+## Screenshots:
 
 <div style="display : inline-block">
 <img src="https://user-images.githubusercontent.com/26858750/99322877-35905900-2871-11eb-855c-fd44546c561e.jpg" alt="drawing" width="160"/>
