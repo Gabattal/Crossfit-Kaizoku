@@ -27,11 +27,11 @@ Actually developping an App for a Gym.
 <img src="https://user-images.githubusercontent.com/26858750/99322886-3b863a00-2871-11eb-9594-138efbd4547a.jpg" alt="drawing" width="160"/>
 
 <img src="https://user-images.githubusercontent.com/26858750/99322902-4214b180-2871-11eb-878e-9e9d38106084.jpg" alt="drawing" width="160"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/26858750/99395959-71630700-28e1-11eb-9119-ee74547656c9.jpg" alt="drawing" width="160"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/26858750/99395964-72943400-28e1-11eb-9b0f-f039974d1b1f.jpg" alt="drawing" width="160"/>
 </div>
+
+
 
