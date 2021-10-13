@@ -1,6 +1,6 @@
 # CrossFit-Kaizoku
 
-Booking app for a Gym (in progress).
+Booking app for a Gym.
 
 ## Technologies used:
 
